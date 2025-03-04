@@ -1,5 +1,5 @@
 <h1 align="center">Configurando um Proxy em sua VPS </h1>
-Feito com apoio da AI Claude 3.7 Sonnet
+
 
 
 ## Criando um Proxy HTTP com Autenticação no Ubuntu 20.04
