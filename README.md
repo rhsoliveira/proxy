@@ -115,7 +115,7 @@ sudo systemctl status squid
 ```
 
 
-#Como usar o proxy
+# Como usar o proxy
 
 Agora você pode acessar seu proxy usando:
 Endereço: http://seu_ip_do_servidor:3128
