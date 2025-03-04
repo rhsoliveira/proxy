@@ -130,7 +130,7 @@ Se preferir uma porta diferente de 3128, basta modificar o valor de http_port 
 
 ## Consultoria e contato:
 
-    GESTÃO MASTER
+    Rafael Oliveira - GESTÃO MASTER
 
     Fone: 12 99642-8123(WhatsApp)
 
