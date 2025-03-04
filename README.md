@@ -4,7 +4,7 @@ Feito com apoio da AI Claude 3.7 Sonnet
 
 ## Criando um Proxy HTTP com Autenticação no Ubuntu 20.04
 
-Vou te guiar na criação de um servidor proxy HTTP com autenticação de usuário e senha usando o Squid, uma das soluções mais populares para este propósito.
+Guia para a criação de um servidor proxy HTTP com autenticação de usuário e senha usando o Squid, uma das soluções mais populares para este propósito.
 1. Atualizando o sistema
 Primeiro, vamos atualizar o sistema:
 ```
@@ -134,7 +134,7 @@ Se preferir uma porta diferente de 3128, basta modificar o valor de http_port 
 
     Fone: 12 99642-8123(WhatsApp)
 
-    Contribua com um café: ChavePix Celular 12996428123
+    Contribua com um café: ChavePix Celular: 12996428123
 
 
 Todos os direitos reservados a https://gestaomaster.pro
